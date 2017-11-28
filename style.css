@@ -16,8 +16,8 @@ svg {
   background: rgba(0,0,0,0.1);
   padding: 20px;
   border-radius: 50%;
-  width:200px;
   margin-bottom: 50px;
+  width: 200px;
 }
 
 .wrapper {
